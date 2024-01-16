@@ -47,11 +47,19 @@ button.edit {
 }
 
 
-
 .sectiondivider {
   background-color: #BBC595;
   height: 30px;
 }
+
+.sectiondivider2 {
+  background-color: #BBC595;
+  height: 30px;
+  color: black;
+  text-align: center;
+  padding-top: 7px;
+}
+
 
 .journey {
   font-family: 'Kalam', cursive;
